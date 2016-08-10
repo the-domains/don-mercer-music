@@ -1,4 +1,3 @@
-layout_spectrum: 0.06590558448806405
 typography_spectrum: 0.258827893063426
 color:
   brandStrength: 0.535168613307178
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.06590558448806405
 name: Don Mercer Music
+description: Making Music Keeps Me Up At Night
