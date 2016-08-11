@@ -12,9 +12,5 @@ color:
     - '#DD403A'
 layout_spectrum: 0.06590558448806405
 name: Don Mercer Music
-navigation:
-  - name: Songwriter Community
-    url: 'https://songtown.com/'
-    type: external
 title: Songwriting War Room
 description: Making Music Keeps Me Up At Night
